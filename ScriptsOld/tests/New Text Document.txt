@@ -1,0 +1,2 @@
+set /p texte=< data.txt
+echo %texte%
